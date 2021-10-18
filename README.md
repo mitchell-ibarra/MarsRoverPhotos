@@ -1,10 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mitchell-ibarra/MarsRoverPhotos/mars_rover.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+  <p float="center">
+  <img width="200" height="200" src="https://github.com/mitchell-ibarra/MarsRoverPhotos/blob/master/mars_rover.png">
+  </p>
   <h3 align="center">Mars Rover Photos</h3>
 </div>
 
